@@ -21,11 +21,11 @@ https://github.com/EvitaXen<br>
 
 
 # 1st Deliverable
-### Design Brief
+## Design Brief
 Design Brief: Δημιουργία ενός διαδραστικού πίνακα, όπου ο χρήστης θα αλληλεπιδρά μαζί του μέσω της αφής. <br>
 Main goals: Ψυχαγωγία των χρηστών, ανάπτυξη της δημιουργικότητας μέσω των αισθήσεων.
  
-### Research (Based on PACT) 
+## Research (Based on PACT) 
 <b>People </b> <br>
 
 Physical Differences: Προσιτό σε όλα τα άτομα ακόμα και σε άτομα που έχουν οπτικές διαταραχές
@@ -83,6 +83,47 @@ Communication
 
 
 # 2nd Deliverable
+
+## Information architecture
+![information architecture](https://user-images.githubusercontent.com/101418644/167250569-888fe4dc-e1ff-462d-b802-8e9fb4b9df30.jpg)
+
+
+
+## User Interaction
+
+**Χρήστης-Καμβάς-Arduino-Ήχος-Φώς**
+
+Το αντικείμενο τραβάει την προσοχή του χρήστη. Ο χρήστης πλησιάζει στο αντικείμενο που είναι τοποθετημένο πιθανά σε ένα τοίχο σε εσωτερικό χώρο.Ακουμπάει το κεντρικό σχήμα που έχει σχεδιαστεί με ηλεκτρική μπογιά.Καθώς ακουμπάει το σχήμα αυτο βγάζει φως.Το φως αυτο καθοδηγεί το χρήστη στο να ακουμπήσει τα υπόλοιπα σχήματα τα οποία αντίστοιχα βγάζουν ήχο.Όταν ο χρήστης απομακρύνει το χέρι του από το αντικείμενο  σταματάει η λειτουργία.
+
+
+## Interface design
+
+
+
+
+![interface design](https://user-images.githubusercontent.com/101418644/167250654-da934b0d-d2b3-42ff-b76d-59550e269231.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 3rd Deliverable 
