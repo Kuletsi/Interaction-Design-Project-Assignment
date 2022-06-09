@@ -98,38 +98,39 @@ Communication
 
 ## Interface design
 
-
-
-
 ![interface design](https://user-images.githubusercontent.com/101418644/167250654-da934b0d-d2b3-42ff-b76d-59550e269231.JPG)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 3rd Deliverable 
+
+
+
+
+## Scenarios and Storyboards
+
+
+
+
+## Prototyping 
+Το πρώτο μας βήμα για να φτιάξουμε το prototype ήταν να σχεδιάσουμε τον καμβά. Επιλέξαμε τα χρώματα, σχεδιάσαμε τα βασικά σχήματα στον καμβά με μολύβι και στην συνέχεια τα περάσαμε με ακρυλικά χρώματα. Όταν στέγνωσαν, περάσαμε από ένα χέρι ηλεκτρικής μπογιάς στα σημεία που είχαμε αποφασίσει πως θα χρησιμοποιήσουμε σαν touch sensors. Το επόμενο βήμα ήταν να περάσουμε το UV spray. 
+
 
 
 # Conclusions
 
 
 # Sources
+<ul>
+  <li> <a href="https://www.tiktok.com/@muhtanya/video/7046606440378879278?is_copy_url=1&is_from_webapp=v1&lang=el-GR"> Πρότζεκτ από το οποίο εμπνευστίκαμε </a> </li>
+  <li><a href="https://www.bareconductive.com/blogs/resources"> Bare Conductive - Ηλεκτρική μπογιά </a> </li>
+  <li> <a href="https://www.youtube.com/watch?v=6_4EDcYAzRE&ab_channel=%60%CE%99%CE%B4%CF%81%CF%85%CE%BC%CE%B1%CE%95%CF%85%CE%B3%CE%B5%CE%BD%CE%AF%CE%B4%CE%BF%CF%85"> Συγκόληση </a> </li>
+  <li> <a href="https://new.hiphopshop.gr/product/montana-uv-effect-transparent-400ml/?utm_campaign=Smart-Shopping-Ads&utm_source=google&utm_medium=shopping-ads&gclid=CjwKCAjwtIaVBhBkEiwAsr7-c22jL0EXF289geCQZfqnZzuO-ckbstLTG_cfbbDps3xf36riTdy0shoC4y8QAvD_BwE">  Διάφανο UV light σπρέι  </a></li>
+  <li> <a href="https://www.youtube.com/watch?v=Ie7HusBMH6g&ab_channel=Arduino"> Touchy feely lamp video </a> </li>
+  <li> <a href="https://programminginarduino.wordpress.com/2016/03/06/project-14/"> Touchy feely lamp circuit </a> </li>
+  <li> <a href="https://playground.arduino.cc/Main/CapacitiveSensor/"> Capacitive Sensor Arduino Library </a> </li>
+  <li> <a href="https://www.hackster.io/amalmathewtech/touch-controlled-light-using-arduino-d2f878"> Touchy feely lamp παραλαγή </a> </li>
+  <li> <a href=""> Getting a markers position </a> </li>
+  <li> <a href=""> Sketchfab </a> </li>
+  <li> <a href=""> Sketchfab - fontaine de l'observatoire </a> </li>
+  <li> <a href=""> Sketchfab - Medieval fountain </a> </li>
+
